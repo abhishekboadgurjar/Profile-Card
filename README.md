@@ -20,7 +20,6 @@ The **Profile Card** project is a web-based component that displays a user's pro
 - **CSS**: Styles the card, ensuring it is visually appealing and responsive.
 - **JavaScript**: Handles the interactive features, such as updating the card's status and re-rendering content.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
